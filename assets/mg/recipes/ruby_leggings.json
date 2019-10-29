@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR",
+        "R R",
+        "R R"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "mg:ruby_polished"
+        }
+    },
+    
+    "result":
+    {
+        "item": "mg:ruby_leggings",
+        "count": 1
+    }
+}
